@@ -1,0 +1,9 @@
+001000 IDENTIFICATION DIVISION.                                                     
+002000                                                                              
+003000 ENVIRONMENT DIVISION.                                                        
+004000                                                                              
+005000 CONFIGURATION SECTION.                                                       
+006000                                                                              
+007000 DATA DIVISION.                                                               
+008000                                                                              
+009000 PROCEDURE DIVISION.                                                          
